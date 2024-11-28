@@ -1,0 +1,43 @@
+
+
+.right{
+  background-color: #1B1B1B;
+}
+.left{
+height: 337px;
+    width: 525px;
+    background: #1b1b1b;
+}
+.right{
+    height: 337px;
+        width: 525px;
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
+    .pic{
+        height: 290px;
+        width: 246px;
+    }
+    .abt{
+        color: #FFFFFF;
+
+    background: #1b1b1b;
+    }
+    .abt-1{
+        color: #FFFF;
+        background: #1b1b1b;
+    
+    }
+    .let{
+        background: #1b1b1b;
+    }
+    .hed{
+        color: #FFFFFF;
+        font-size: xx-large;
+    }
+    .rt-hed{
+        font-size: xx-large;
+        background: #1b1b1b;
+        color: #FFFFFF;
+        
+    }
