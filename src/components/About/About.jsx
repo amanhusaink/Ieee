@@ -3,7 +3,7 @@ import React from 'react'
 
 function About() {
   return (
-    <div className="container">
+    <div className="container min-h-screen">
       <div className='flex'>
         <div className='flex-1 para '>
             <div className='img-3'>
