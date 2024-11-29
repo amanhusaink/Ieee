@@ -112,13 +112,17 @@ height: 43px;
     float: right;
 }
 .para{
-  padding-left: 164px;
+  padding-left: 32px;
 }
 .para-in{
   text-align: justify;
   color: #FFFFFF;
+  font-size: 16px;
 }
 .rit{
   padding-left: 66px;
     width: 473px;
+}
+.all{
+  padding-left: 53px;
 }
