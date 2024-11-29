@@ -6,7 +6,7 @@ function Events() {
      <div className="flex flex-col items-center py-10">
                     <h1 className="text-3xl font-semibold mb-6 Ev">Events</h1>
                     <div className="flex space-x-4">
-                        <div className="w-64 h-96 bg-gray-800 rounded-lg post"></div>
+                        <div className="w-64 h-96  rounded-lg post"></div>
                         <div className="w-64 h-96 bg-white rounded-lg flex flex-col items-center justify-center post ">
                             <div className="text">
                                 <img className='pic-1' src='./poster.png'></img>

@@ -5,6 +5,7 @@ import About from './components/About/About';
 import Achievements from './components/Achievements/Achievements';
 import Events from './components/Events/Events';
 import Excom from './components/Excom/Excom';
+import Chapters from './components/Chapters/Chapters';
 
 function App() {
   
@@ -15,6 +16,7 @@ function App() {
     <Achievements/>
     <Events/>
     <Excom/>
+    <Chapters/>
     </div>
   );
 }
